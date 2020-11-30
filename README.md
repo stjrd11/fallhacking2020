@@ -79,3 +79,4 @@ Students:
 | AH |ahill167 | ahill167 |
 |DB|dbow|dbow|
 | GD |mdaugh10 | mdaugh10 |
+|JD | jdicks3 | jdicks3 |
